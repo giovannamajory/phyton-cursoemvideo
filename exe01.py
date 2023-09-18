@@ -1,2 +1,2 @@
 print('Olá, mundo!')
-nome=input('Qual sue nome?')
+nome = input('Qual sue nome?')
