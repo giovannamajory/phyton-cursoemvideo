@@ -1,0 +1,10 @@
+p = input('Fique a vontade para escrever qualquer coisa: ')
+print('O tipo primitvo dessa coisa é', type(p))
+print('Só tem espaço?', p.isspace())
+print('É númerico?', p.isnumeric())
+print('É alfabético? ', p.isalpha())
+print('É alfanúmerico?', p.isalnum())
+print('Está em maiúscula?', p.isupper())
+print('Está em minúscula?', p.islower())
+print('Está capitalizada?', p.istitle())
+
